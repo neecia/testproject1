@@ -64,7 +64,6 @@ int main(int argc, char const *argv[])
     root = addNode(root, 1);
     root = addNode(root, 8);
     root = addNode(root, 4);
-    root = addNode(root, 2);
     root = addNode(root, 6);
     root = addNode(root, 9);
     root = addNode(root, 7);
